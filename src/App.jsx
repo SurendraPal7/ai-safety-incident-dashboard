@@ -21,6 +21,21 @@ const initialIncidents = [
     reported_at: "2025-04-01T14:30:00Z",
   },
   {
+    title: 'API Rate Limiting Issue',
+    severity: 'Medium',
+    date: 'Mar 25, 2025',
+  },
+  {
+    title: 'Unresponsive UI in Mobile App',
+    severity: 'Low',
+    date: 'Mar 30, 2025',
+  },
+  {
+    title: 'Unauthorized Access Attempt',
+    severity: 'High',
+    date: 'Apr 5, 2025',
+  },
+  {
     id: 3,
     title: "Minor Data Leak via Chatbot",
     description: "Chatbot inadvertently exposed non-sensitive user metadata...",
